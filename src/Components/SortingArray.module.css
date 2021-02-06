@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.allColumns {
+  position: absolute;
+  left: 50%;
+  top: 65%;
+  transform: translate(-50%, -65%);
+  text-align: center;
+  width: 100vw;
+}
+
+.buttonsDiv {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 2%;
+}
