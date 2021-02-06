@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SORTING-ALGHORITM-PROJECT/static/css/main.5279367b.chunk.css",
+    "main.js": "/SORTING-ALGHORITM-PROJECT/static/js/main.344650f0.chunk.js",
+    "main.js.map": "/SORTING-ALGHORITM-PROJECT/static/js/main.344650f0.chunk.js.map",
+    "runtime-main.js": "/SORTING-ALGHORITM-PROJECT/static/js/runtime-main.b45e6d45.js",
+    "runtime-main.js.map": "/SORTING-ALGHORITM-PROJECT/static/js/runtime-main.b45e6d45.js.map",
+    "static/js/2.c3125dc5.chunk.js": "/SORTING-ALGHORITM-PROJECT/static/js/2.c3125dc5.chunk.js",
+    "static/js/2.c3125dc5.chunk.js.map": "/SORTING-ALGHORITM-PROJECT/static/js/2.c3125dc5.chunk.js.map",
+    "static/js/3.3d109c44.chunk.js": "/SORTING-ALGHORITM-PROJECT/static/js/3.3d109c44.chunk.js",
+    "static/js/3.3d109c44.chunk.js.map": "/SORTING-ALGHORITM-PROJECT/static/js/3.3d109c44.chunk.js.map",
+    "index.html": "/SORTING-ALGHORITM-PROJECT/index.html",
+    "static/css/main.5279367b.chunk.css.map": "/SORTING-ALGHORITM-PROJECT/static/css/main.5279367b.chunk.css.map",
+    "static/js/2.c3125dc5.chunk.js.LICENSE.txt": "/SORTING-ALGHORITM-PROJECT/static/js/2.c3125dc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b45e6d45.js",
+    "static/js/2.c3125dc5.chunk.js",
+    "static/css/main.5279367b.chunk.css",
+    "static/js/main.344650f0.chunk.js"
+  ]
+}
